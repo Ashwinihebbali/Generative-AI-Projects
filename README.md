@@ -30,6 +30,18 @@ Prompt Engineer → GenAI Application Developer → Advanced Generative AI Syste
 - Learn end-to-end workflow for developing Generative AI projects
 
 ---
+## 🏗 Skills Demonstrate Through These Projects
+
+Through these projects, I explore and practice key **Generative AI development skills**:
+
+- Prompt Engineering
+- LLM Application Development
+- AI-assisted content generation
+- API integration with Gemini
+- Python-based AI automation
+- Building intelligent productivity tools
+
+---
 ## 🌟 Vision
 
 The goal of this repository is to build a **comprehensive portfolio of Generative AI applications** that demonstrate practical AI development skills and real-world problem-solving using LLMs.
