@@ -30,3 +30,8 @@ Prompt Engineer → GenAI Application Developer → Advanced Generative AI Syste
 - Learn end-to-end workflow for developing Generative AI projects
 
 ---
+## 🌟 Vision
+
+The goal of this repository is to build a **comprehensive portfolio of Generative AI applications** that demonstrate practical AI development skills and real-world problem-solving using LLMs.
+
+This journey aims to evolve from **learning AI concepts** to **building impactful AI-powered systems**.
