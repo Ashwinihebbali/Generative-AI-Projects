@@ -3,7 +3,7 @@
  
   <p>
     <strong>A structured, hands-on, project-oriented journey into Generative AI</strong><br>
-    From prompt engineering fundamentals → building real-world GenAI applications → advanced AI assistants
+    From prompt engineering fundamentals → building real-world GenAI applications → advanced AI assistantsb
   </p> 
   <p>
     <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge&logo=python" alt="Status">
