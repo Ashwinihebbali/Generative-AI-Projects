@@ -1,5 +1,5 @@
  <div align="center">
-  <h1>🚀 Generative AI Skill Development Journey</h1> 
+  <h1>🚀 Generative AI Skill Development Journey</h1>
  
   <p>
     <strong>A structured, hands-on, project-oriented journey into Generative AI</strong><br>
