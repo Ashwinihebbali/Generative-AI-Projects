@@ -1,4 +1,4 @@
- <div align="center">
+ <div align="center"> 
   <h1>🚀 Generative AI Skill Development Journey</h1>       
     
   <p>
