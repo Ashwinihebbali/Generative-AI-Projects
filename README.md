@@ -1,6 +1,6 @@
  <div align="center"> 
   <h1>🚀 Generative AI Skill Development Journey</h1>          
-    
+     
   <p>
     <strong>A structured, hands-on, project-oriented journey into Generative AI</strong><br>
     From prompt engineering fundamentals → building real-world GenAI applications → advanced AI assistantsb
